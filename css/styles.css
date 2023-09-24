@@ -933,11 +933,12 @@ a:hover {
 .footer {
 	padding-top: 6.5rem;
 	padding-bottom: 2rem;
-	background-color: #272556;
+	background-color: #62DCD3;
+	text-align: center;
 }
 
 .footer a {
-	color: #ffffff;
+	color: #272556;
 	text-decoration: none;
 }
 
@@ -947,13 +948,13 @@ a:hover {
 
 .footer h6 {
 	margin-bottom: 0.625rem;
-	color: #ffffff;
+	color: #272556;
 	opacity: 0.8;
 }
 
 .footer p,
 .footer ul {
-	color: #ffffff;
+	color: #272556;
 	opacity: 0.8;
 }
 
@@ -1329,6 +1330,7 @@ a:hover {
 	/* Footer */
 	.footer .footer-col {
 		margin-bottom: 2rem;
+		text-align: center;
 	}
 
 	.footer .footer-col.first {
@@ -1348,7 +1350,6 @@ a:hover {
 	.footer .footer-col.third {
 		display: inline-block;
 		width: 224px;
-		text-align: right;
 		vertical-align: top;
 	}
 
@@ -1487,7 +1488,7 @@ a:hover {
 	}
 	
 	.footer .footer-col.third {
-		text-align: right;
+		text-align: center;
 	}
 	/* end of footer */
 
